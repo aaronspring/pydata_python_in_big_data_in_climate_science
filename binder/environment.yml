@@ -11,12 +11,15 @@ dependencies:
   - gcsfs
   - zarr
   - intake
+  - nc-time-axis
   - seaborn
   # regridding
   - esmpy=7.1.0
   - xesmf
   # vis
   - matplotlib
+  - graphviz
+  - python-graphviz
   - cartopy  # mapping
   - pip:
     - git+https://github.com/bradyrx/climpred.git
