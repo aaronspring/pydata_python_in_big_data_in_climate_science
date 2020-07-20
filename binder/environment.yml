@@ -17,7 +17,7 @@ dependencies:
   - esmpy=7.1.0
   - xesmf
   # vis
-  - matplotlib
+  - matplotlib<3.3
   - graphviz
   - python-graphviz
   - cartopy  # mapping
