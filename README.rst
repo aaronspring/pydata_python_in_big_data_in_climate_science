@@ -2,6 +2,14 @@
 pydata: pangeo in cloud
 =======================
 
+Open `xarray_dask_cloud.ipynb`.
+
+Once client is called `client = Client()`, dashboard should appear on the right side. If not,
+click on the left sidebar `dask` symbol and the magnifying glass icon to get the correct dashboard address.
+Or just click on the link given in the client repr.
+
+Disclaimer:
+- Last part with `xesmf` and `xr.polyfit` fails in `xarray_dask_cloud.ipynb`
 
 See http://pangeo.io for more information.
 
