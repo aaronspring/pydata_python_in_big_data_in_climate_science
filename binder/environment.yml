@@ -14,7 +14,7 @@ dependencies:
   - nc-time-axis
   - seaborn
   # regridding
-  #- esmpy=7.1.0
+  - esmpy=7.1.0
   - xesmf
   # vis
   - matplotlib
